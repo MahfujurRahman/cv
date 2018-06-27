@@ -82,10 +82,13 @@ a:hover { text-decoration: none }
     background-color: #ececec;
     border-radius: 5px;
   }
+  .academic h2 {
+    padding: 5px 0px;
+}
   .master h2 {
     background-color: #ececec;
     border-radius: 5px;
-    padding: 5px 0px;
+    padding: 8px 0px;
   }
   .master {
     margin-bottom: 40px;
