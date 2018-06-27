@@ -67,6 +67,7 @@ a:hover { text-decoration: none }
   .objective h2 {
     background-color: #ececec;
     border-radius: 5px;
+    padding: 5px 0px;
   }
   .obejectiv-pra {
     margin-bottom: 45px;
@@ -84,6 +85,7 @@ a:hover { text-decoration: none }
   .master h2 {
     background-color: #ececec;
     border-radius: 5px;
+    padding: 5px 0px;
   }
   .master {
     margin-bottom: 40px;
