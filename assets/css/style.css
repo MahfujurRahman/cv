@@ -1,0 +1,93 @@
+/* Base CSS */
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,900|Source+Sans+Pro');
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+}
+a:hover { text-decoration: none }
+
+.curiculum-vitae {
+    margin: 60px 0px;
+  }
+  address h3 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #888;
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+  }
+  address h3:after {
+    position: absolute;
+    height: 2px;
+    width: 45%;
+    left: 0;
+    bottom: 0;
+    content: "";
+    background-color: #888;
+  }
+  address h2 {
+    text-transform: uppercase;
+  }
+  address {
+    margin-bottom: 35px;
+  }
+  .eitty {
+    max-width: 160px;
+    max-height: 185px;
+    display: initial;
+}
+  .objective h2 {
+    background-color: #ececec;
+    border-radius: 5px;
+  }
+  .obejectiv-pra {
+    margin-bottom: 45px;
+  }
+  .obejectiv-pra p {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  .academic {
+    margin: 50px 0px 60px 0px;
+    background-color: #ececec;
+    border-radius: 5px;
+  }
+  .master h2 {
+    background-color: #ececec;
+    border-radius: 5px;
+  }
+  .master {
+    margin-bottom: 40px;
+  }
+  .col-md-4 {
+    margin-top: 25px;
+  }
